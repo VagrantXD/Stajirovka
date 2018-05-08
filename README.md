@@ -1,3 +1,3 @@
-# Stajirovka
-Сюда буду заливать решения задач с codewars.
-1)Первым делом изменю README  ^_//
+Сюда я буду сбрасывать решения задачь с codewars
+
+1) https://www.codewars.com/kata/odd-or-even
