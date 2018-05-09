@@ -13,3 +13,5 @@
 11) https://www.codewars.com/kata/see-you-next-happy-year ( 7kyu, happyYear )
 12) https://www.codewars.com/kata/maximum-product ( 7kyu, maximumProduct )
 13) https://www.codewars.com/kata/drying-potatoes ( 7kyu, dryingPotatoes )
+14) https://www.codewars.com/kata/sum-of-angles ( 7kyu, sumOfAngles )
+15) https://www.codewars.com/kata/balanced-number-special-numbers-series-number-1 ( 7kyu, balancedNumber )
