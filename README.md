@@ -11,3 +11,5 @@
 9)  https://www.codewars.com/kata/heros-root ( 7kyu, herosRoot )
 10) https://www.codewars.com/kata/special-number-special-numbers-series-number-5 ( 7kyu, specialNumber )
 11) https://www.codewars.com/kata/see-you-next-happy-year ( 7kyu, happyYear )
+12) https://www.codewars.com/kata/maximum-product ( 7kyu, maximumProduct )
+13) https://www.codewars.com/kata/drying-potatoes ( 7kyu, dryingPotatoes )
