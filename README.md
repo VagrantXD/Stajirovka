@@ -7,3 +7,5 @@
 5) https://www.codewars.com/kata/round-to-the-next-multiple-of-5 ( 7kyu, roundTo5 )
 6) https://www.codewars.com/kata/madhav-array ( 7kyu, Madhav array )
 7) https://www.codewars.com/kata/tests-results ( 7kyu, Test's result )
+8) https://www.codewars.com/kata/get-the-middle-character ( 7kyu, middleCharacter )
+9) https://www.codewars.com/kata/heros-root ( 7kyu, herosRoot )
