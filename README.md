@@ -5,3 +5,5 @@
 3) https://www.codewars.com/kata/how-long-should-you-cook-this-for ( 7kyu, cook )
 4) https://www.codewars.com/kata/arithmetic-progression ( 7kyu, arithmetic progression )
 5) https://www.codewars.com/kata/round-to-the-next-multiple-of-5 ( 7kyu, roundTo5 )
+6) https://www.codewars.com/kata/madhav-array ( 7kyu, Madhav array )
+7) https://www.codewars.com/kata/tests-results ( 7kyu, Test's result )
