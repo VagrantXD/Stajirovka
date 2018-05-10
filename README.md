@@ -18,3 +18,5 @@
 16) https://www.codewars.com/kata/quadratic-enumerator-1 ( 7kyu, quadraticEnumerator )
 17) https://www.codewars.com/kata/maximum-multiple ( 7kyu, maximumMultiple )
 18) https://www.codewars.com/kata/a-rule-of-divisibility-by-7 ( 7kyu, ruleOfDivisibilityBy7 )
+19) https://www.codewars.com/kata/looking-for-a-benefactor ( 7kyu, lookingForBenefactor )
+20) https://www.codewars.com/kata/the-deca-tree ( 7kyu, decaTree )
