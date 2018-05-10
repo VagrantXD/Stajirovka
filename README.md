@@ -15,3 +15,6 @@
 13) https://www.codewars.com/kata/drying-potatoes ( 7kyu, dryingPotatoes )
 14) https://www.codewars.com/kata/sum-of-angles ( 7kyu, sumOfAngles )
 15) https://www.codewars.com/kata/balanced-number-special-numbers-series-number-1 ( 7kyu, balancedNumber )
+16) https://www.codewars.com/kata/quadratic-enumerator-1 ( 7kyu, quadraticEnumerator )
+17) https://www.codewars.com/kata/maximum-multiple ( 7kyu, maximumMultiple )
+18) https://www.codewars.com/kata/a-rule-of-divisibility-by-7 ( 7kyu, ruleOfDivisibilityBy7 )
