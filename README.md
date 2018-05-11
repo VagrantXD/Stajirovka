@@ -1,5 +1,6 @@
 Сюда я буду сбрасывать решения задачь с codewars
 
+******************7kyu********************
 1)  https://www.codewars.com/kata/odd-or-even  ( 7kyu, addOrEven )
 2)  https://www.codewars.com/kata/alphabetically-ordered ( 7kyu, alphabetically ordered )
 3)  https://www.codewars.com/kata/how-long-should-you-cook-this-for ( 7kyu, cook )
@@ -20,3 +21,7 @@
 18) https://www.codewars.com/kata/a-rule-of-divisibility-by-7 ( 7kyu, ruleOfDivisibilityBy7 )
 19) https://www.codewars.com/kata/looking-for-a-benefactor ( 7kyu, lookingForBenefactor )
 20) https://www.codewars.com/kata/the-deca-tree ( 7kyu, decaTree )
+
+****************************6kyu**************************
+1)  https://www.codewars.com/kata/convert-string-to-camel-case ( 6kyu, convertToCamelCase )
+2)  https://www.codewars.com/kata/the-nth-smallest-integer ( 6kyu, smallestInteger )
