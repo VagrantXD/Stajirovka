@@ -25,3 +25,5 @@
 ****************************6kyu**************************
 1)  https://www.codewars.com/kata/convert-string-to-camel-case ( 6kyu, convertToCamelCase )
 2)  https://www.codewars.com/kata/the-nth-smallest-integer ( 6kyu, smallestInteger )
+3)  https://www.codewars.com/kata/tank-truck ( 6kyu, tankTruck )
+4)  https://www.codewars.com/kata/esolang-interpreters-number-1-introduction-to-esolangs-and-my-first-interpreter-ministringfuck ( 6kyu, esolangInterpretars )
