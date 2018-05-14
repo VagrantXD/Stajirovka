@@ -29,3 +29,5 @@
 4)  https://www.codewars.com/kata/esolang-interpreters-number-1-introduction-to-esolangs-and-my-first-interpreter-ministringfuck ( 6kyu, esolangInterpretars )
 5)  https://www.codewars.com/kata/playing-on-a-chessboard ( 6kyu, playingOnChessboard )
 6)  https://www.codewars.com/kata/unique-in-order ( 6kyu, uniqueInOrder )
+7)  https://www.codewars.com/kata/tortoise-racing ( 6kyu, tortoiseRicing )
+8)  https://www.codewars.com/kata/parabolic-arc-length ( 6kyu, parabolicArcLength )
