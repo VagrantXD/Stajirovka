@@ -33,3 +33,5 @@
 8)  https://www.codewars.com/kata/parabolic-arc-length ( 6kyu, parabolicArcLength )
 9)  https://www.codewars.com/kata/build-a-pile-of-cubes ( 6kyu, buildOfCubes )
 10) https://www.codewars.com/kata/financing-plan-on-planet-xy140z-n ( 6kyu, financingPlan )
+11) https://www.codewars.com/kata/bouncing-balls ( 6kyu, bouncingBall )
+12) https://www.codewars.com/kata/basic-bitmapping ( 6kyu, basicBitmapping
