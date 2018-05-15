@@ -31,3 +31,5 @@
 6)  https://www.codewars.com/kata/unique-in-order ( 6kyu, uniqueInOrder )
 7)  https://www.codewars.com/kata/tortoise-racing ( 6kyu, tortoiseRicing )
 8)  https://www.codewars.com/kata/parabolic-arc-length ( 6kyu, parabolicArcLength )
+9)  https://www.codewars.com/kata/build-a-pile-of-cubes ( 6kyu, buildOfCubes )
+10) https://www.codewars.com/kata/financing-plan-on-planet-xy140z-n ( 6kyu, financingPlan )
