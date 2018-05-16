@@ -35,3 +35,5 @@
 10) https://www.codewars.com/kata/financing-plan-on-planet-xy140z-n ( 6kyu, financingPlan )
 11) https://www.codewars.com/kata/bouncing-balls ( 6kyu, bouncingBall )
 12) https://www.codewars.com/kata/basic-bitmapping ( 6kyu, basicBitmapping
+13) https://www.codewars.com/kata/how-much ( 6kyu, howMuch )
+14) https://www.codewars.com/kata/buying-a-car ( 6kyu, buyingCar )
