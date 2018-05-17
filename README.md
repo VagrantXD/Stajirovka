@@ -41,3 +41,5 @@
 16) https://www.codewars.com/kata/rectangle-into-squares ( 6kyu, rectangleIntoSquares )
 17) https://www.codewars.com/kata/dictionary-merge ( 6kyu, dictlonaryMerge )
 18) https://www.codewars.com/kata/manage-the-robot-factory-day-1 ( 6kyu, manageRobot )
+19) https://www.codewars.com/kata/time-simulation ( 6kyu, timeSimulation )
+20) https://www.codewars.com/kata/three-added-characters ( 6kyu, threeAddedChar )
