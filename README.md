@@ -37,3 +37,5 @@
 12) https://www.codewars.com/kata/basic-bitmapping ( 6kyu, basicBitmapping
 13) https://www.codewars.com/kata/how-much ( 6kyu, howMuch )
 14) https://www.codewars.com/kata/buying-a-car ( 6kyu, buyingCar )
+15) https://www.codewars.com/kata/simple-string-indices ( 6kyu, stringIndices )
+16) https://www.codewars.com/kata/rectangle-into-squares ( 6kyu, rectangleIntoSquares )
