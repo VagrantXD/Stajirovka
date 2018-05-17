@@ -39,3 +39,5 @@
 14) https://www.codewars.com/kata/buying-a-car ( 6kyu, buyingCar )
 15) https://www.codewars.com/kata/simple-string-indices ( 6kyu, stringIndices )
 16) https://www.codewars.com/kata/rectangle-into-squares ( 6kyu, rectangleIntoSquares )
+17) https://www.codewars.com/kata/dictionary-merge ( 6kyu, dictlonaryMerge )
+18) https://www.codewars.com/kata/manage-the-robot-factory-day-1 ( 6kyu, manageRobot )
