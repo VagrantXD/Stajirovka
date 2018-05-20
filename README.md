@@ -48,3 +48,5 @@
 
 1)  https://www.codewars.com/kata/is-my-friend-cheating ( 5kyu, isFriendCheating )
 2)  https://www.codewars.com/kata/missing-number-in-unordered-arithmetic-progression ( 5kyu, missingNumber )
+3)  https://www.codewars.com/kata/perimeter-of-squares-in-a-rectangle ( 5kyu, perimeterOfSquares )
+4)  https://www.codewars.com/kata/integers-recreation-one ( 5kyu, integersRecreationOne )
